@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require-dev": {
+    },
+    
+    "require": {
+        "slim/slim": "3.0",
+        "phpunit/phpunit": "^7.4"
+    }
+}
